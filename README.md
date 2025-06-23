@@ -1,2 +1,2 @@
-# vibe_ecommerce
+# vibe_ecommerce NOTES
 vibe_ecommerce
