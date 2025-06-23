@@ -1,2 +1,1 @@
-# vibe_ecommerce NOTES
-vibe_ecommerce
+# VIBE Coding Notes
